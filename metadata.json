@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A feature-rich personal finance and expense tracker with real-time summaries, interactive charts, category budgeting, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
